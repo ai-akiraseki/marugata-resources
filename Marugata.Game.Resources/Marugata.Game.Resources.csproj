@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>Marugata.Game.Resources</Title>
+    <Product>Marugata.Game.Resources</Product>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Nuget">
+    <Title>Marugata.Game.Resources</Title>
+    <PackageId>ai.akiraseki.Marugata.Game.Resources</PackageId>
+    <Authors>Ai Akiraseki</Authors>
+    <PackageLicenseUrl>https://github.com/ai-akiraseki/marugata-resources/blob/master/LICENCE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ai-akiraseki/marugata-resources</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ai-akiraseki/marugata-resources</RepositoryUrl>
+    <PackageReleaseNotes>Releases are done automagically by Appveyor.</PackageReleaseNotes>
+    <copyright>Copyright (c) 2020 Ai Akiraseki</copyright>
+    <PackageTags>marugata game resources</PackageTags>
+  </PropertyGroup>
+</Project>
